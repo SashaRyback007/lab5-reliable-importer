@@ -1,0 +1,30 @@
+[
+{
+  "isbn": "978-0131103627",
+  "title": "The C Programming Language",
+  "author": "Brian W. Kernighan",
+  "year": 1988,
+  "pages": 272
+},
+{
+  "isbn": "978-0201633610",
+  "title": "Design Patterns",
+  "author": "Erich Gamma",
+  "year": 1994,
+  "pages": 395
+},
+{
+  "isbn": "978-0132350884",
+  "title": "Clean Code",
+  "author": "Robert C. Martin",
+  "year": 2008,
+  "pages": 464
+},
+{
+  "isbn": "978-3333333333",
+  "title": "Fluent Python",
+  "author": "Luciano Ramalho",
+  "year": 2022,
+  "pages": 1014
+}
+]

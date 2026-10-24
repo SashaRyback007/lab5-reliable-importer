@@ -1,0 +1,11 @@
+input:
+  path: data/books.csv
+output:
+  path: output/books.json
+processing:
+  min_year: 1000
+  max_year: 2026
+  skip_invalid: true
+logging:
+  level: INFO
+  path: logs/application.log

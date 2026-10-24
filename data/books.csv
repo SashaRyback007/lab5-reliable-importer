@@ -1,0 +1,8 @@
+isbn,title,author,year,pages
+978-0131103627,The C Programming Language,Brian W. Kernighan,1988,272
+978-0201633610,Design Patterns,Erich Gamma,1994,395
+978-0132350884,Clean Code,Robert C. Martin,2008,464
+978-0000000000,,No Author Book,2020,100
+978-1111111111,Invalid Year Book,Author Name,800,150
+978-2222222222,Negative Pages Book,Author Name,2015,-50
+978-3333333333,Fluent Python,Luciano Ramalho,2022,1014
